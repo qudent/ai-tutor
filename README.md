@@ -49,4 +49,4 @@ The tutor will teach through explanation and exercises, track your understanding
 
 This project is a proof of concept for **workflow-preserving, skill-sustaining AI** — an alternative to the default chatbot pattern where the AI simply gives you the answer. Instead, the AI builds a model of what you know and teaches you to understand the material yourself.
 
-See: Ghosh et al., "Chatbots Are Not (Yet) Suitable for AI-Assisted Learning" (2025/2026) for the motivation.
+Motivated by critiques of chatbot-based learning — in particular the problems of sycophancy and deskilling.
